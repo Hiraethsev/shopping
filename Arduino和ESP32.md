@@ -22,7 +22,7 @@
 
 + 搜索esp32 下载
 
-  ![img](https://cdn.jsdelivr.net/ghHiraethsev/hiraeth-img/202310031739530.png)
+  ![img](https://cdn.jsdelivr.net/ghHiraethsev/hiraeth-img@main/202310031753841.png)
 
   + 下载时需要科学上网，最好用手机热点下载
   + 下载时候往往会出错，如果出错，多试几次即可。
@@ -35,11 +35,11 @@ OK接下来你就需要来实验室试一下你的环境到底有没有安好
 
 + 先把板子（ESP32）连接到电脑上
 + 然后在`工具->开发板->esp32` 选择板子对应的型号
-+ ![img](https://cdn.jsdelivr.net/ghHiraethsev/hiraeth-img/202310031739979.png)
++ ![屏幕截图 2023-10-03 155829](https://cdn.jsdelivr.net/ghHiraethsev/hiraeth-img@main/202310031807627.png)
 
 + 在`工具->端口`里选择你连接的端口
 
-+ ![img](https://cdn.jsdelivr.net/ghHiraethsev/hiraeth-img/202310031738955.png)
++ ![屏幕截图 2023-10-03 160023](https://cdn.jsdelivr.net/ghHiraethsev/hiraeth-img@main/202310031807262.png)
 
 + 用一个简单的测试代码试一下
 
