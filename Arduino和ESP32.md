@@ -6,7 +6,7 @@
 
 - https://www.arduino.cc/en/software
 
-- 注意下载==1.8.19版本==而不是2.21版本
+- 注意下载==1.8.19版本==而不是2.2.1版本
 
   (什么？你下错版本了？那就只能删掉重下了)
 
@@ -22,7 +22,7 @@
 
 + 搜索esp32 下载
 
-  ![屏幕截图 2023-10-03 154524](https://cdn.jsdelivr.net/ghHiraethsev/hiraeth-img/202310031739530.png)
+  ![img](https://cdn.jsdelivr.net/ghHiraethsev/hiraeth-img/202310031739530.png)
 
   + 下载时需要科学上网，最好用手机热点下载
   + 下载时候往往会出错，如果出错，多试几次即可。
@@ -35,11 +35,11 @@ OK接下来你就需要来实验室试一下你的环境到底有没有安好
 
 + 先把板子（ESP32）连接到电脑上
 + 然后在`工具->开发板->esp32` 选择板子对应的型号
-+ ![屏幕截图 2023-10-03 155829](https://cdn.jsdelivr.net/ghHiraethsev/hiraeth-img/202310031739979.png)
++ ![img](https://cdn.jsdelivr.net/ghHiraethsev/hiraeth-img/202310031739979.png)
 
 + 在`工具->端口`里选择你连接的端口
 
-+ ![屏幕截图 2023-10-03 160023](https://cdn.jsdelivr.net/ghHiraethsev/hiraeth-img/202310031738955.png)
++ ![img](https://cdn.jsdelivr.net/ghHiraethsev/hiraeth-img/202310031738955.png)
 
 + 用一个简单的测试代码试一下
 
