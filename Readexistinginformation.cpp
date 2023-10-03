@@ -7,7 +7,7 @@ void RetrieveInformation(GoodsList &L)
 {
     GoodsList p,q;
     int i,num;
-    FILE * myfile=fopen("D:\\华中师范大学\\编程\\c++\\goods.txt","r");
+    FILE * myfile=fopen("D:\\鍗庝腑甯堣寖澶у\\缂栫▼\\c++\\goods.txt","r");
     
     if(myfile==NULL)
     {
