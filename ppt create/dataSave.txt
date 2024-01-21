@@ -1,0 +1,19 @@
+CRect Rectangle1 10 5 1 1 red
+CEllipse Ellipse1 8 4 2 2 blue
+CRect Rectangle2 12 6 3 3 green
+CEllipse Ellipse2 5 3 4 4 yellow
+CEllipse AnotherText 8 4 2 2 blue
+CRoundRect AnotherText11 10 5 15 6 1 10 red
+#
+CEllipse Ellipse2 5 3 4 4 yellow
+CEllipse AnotherText 8 4 2 2 blue
+CRoundRect AnotherText11 10 5 15 6 1 10 red
+#
+CEllipse Ellipse111 8 4 2 2 blue
+CRect Rectangle232 12 6 63 3 green
+CEllipse Ellipse295 5 3 40 40 yellow
+#
+CEllipse Ellipse111 8 4 2 2 blue
+CRect Rectangle232 12 6 63 3 green
+CEllipse Ellipse295 5 3 40 40 yellow
+#
